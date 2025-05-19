@@ -33,10 +33,10 @@ height=50px>][VSCODE]
 height=50px>][VS]
 [<img alt=Eclipse src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg height=50px>][ECLIPSE]
 
-👾Game engines<br>
+👾 _Game engines_<br>
 [<img alt=Unity src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unity/unity-original.svg height=50px>][UNITY]
 
-🎨Art design<br>
+🎨 _Art design_<br>
 [<img alt=Blender src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original.svg height=50px>][blender]
 [<img alt=Libresprite src="https://github.com/pirineocalvo/pirineocalvo/blob/main/img/ase48.png?raw=true" height=50px>][libre]
 
