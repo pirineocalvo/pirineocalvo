@@ -3,7 +3,7 @@
 ## 🇪🇸 Student and Software developer 💻
 ![Pirineo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirineocalvo&show_icons=true&theme=radical)
 
-## 🔧Tools
+## 🔧 Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirineocalvo&layout=compact&show_icons=true&theme=radical)
 
 🗻 _General_ <br>
@@ -40,7 +40,13 @@ height=50px>][VS]
 [<img alt=Blender src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original.svg height=50px>][blender]
 [<img alt=Libresprite src=./ase48.png height=50px>][libre]
 
-<!--References to icon tools logos, not visible but neccesary if you want your icons to redirect somewhere-->
+
+## 📫 Social media
+[<img alt=linkedin src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg height=50px>][linkedin]
+[<img alt=instagram src=https://www.svgrepo.com/show/452229/instagram-1.svg height=50px>][instagram]
+[<img alt=twitter src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/twitter/twitter-original.svg height=50px>][twitter]
+
+<!--References of the icons, not visible but neccesary if you want your icons to redirect somewhere-->
 [Github]: https://github.com/
 [JavaJDK]: https://openjdk.org/
 [Git]:https://git-scm.com/downloads
@@ -58,7 +64,10 @@ height=50px>][VS]
 [UNITY]: https://unity.com/es
 [blender]: https://www.blender.org/
 [libre]: https://libresprite.github.io/#!/
----
+[linkedin]: https://www.linkedin.com/in/h%C3%A9ctor-corrales-p%C3%A9rez-b31336365/
+[instagram]: https://www.instagram.com/the_pirineocalvo/
+[twitter]: https://x.com/ThePirineoCalvo
+
 
 
 
