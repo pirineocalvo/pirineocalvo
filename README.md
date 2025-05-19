@@ -38,13 +38,17 @@ height=50px>][VS]
 
 🎨Art design<br>
 [<img alt=Blender src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original.svg height=50px>][blender]
-[<img alt=Libresprite src=./ase48.png height=50px>][libre]
+[<img alt=Libresprite src="https://github.com/pirineocalvo/pirineocalvo/blob/main/img/ase48.png?raw=true" height=50px>][libre]
 
 
 ## 📫 Social media
 [<img alt=linkedin src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg height=50px>][linkedin]
 [<img alt=instagram src=https://www.svgrepo.com/show/452229/instagram-1.svg height=50px>][instagram]
 [<img alt=twitter src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/twitter/twitter-original.svg height=50px>][twitter]
+
+## About me
+    - 📍Studying Web Apps Development (DAW) in Colegio Calasanz Salamanca.
+    - 🤓☝️Learning game development on my own.
 
 <!--References of the icons, not visible but neccesary if you want your icons to redirect somewhere-->
 [Github]: https://github.com/
