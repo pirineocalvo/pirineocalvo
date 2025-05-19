@@ -30,7 +30,7 @@ height=50px>][C#]
 [<img alt=VSCode src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg
 height=50px>][VSCODE]
 [<img alt=VS src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/visualstudio/visualstudio-original.svg
-height=50px>][VSCODE]
+height=50px>][VS]
 [<img alt=Eclipse src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/eclipse/eclipse-original.svg height=50px>][ECLIPSE]
 
 👾Game engines<br>
