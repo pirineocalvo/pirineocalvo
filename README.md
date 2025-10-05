@@ -48,7 +48,6 @@ height=50px>][VS]
 
 ## About me
     - 📍Studying Web Apps Development (DAW) in Colegio Calasanz Salamanca.
-    - 🤓☝️Learning game development on my own.
 
 <!--References of the icons, not visible but neccesary if you want your icons to redirect somewhere-->
 [Github]: https://github.com/
