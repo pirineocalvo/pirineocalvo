@@ -1,10 +1,8 @@
 ### Hi there! I am Héctor - Pirineo 👋
 
-## 🇪🇸 Student and Software developer 💻
-![Pirineo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pirineocalvo&show_icons=true&theme=radical)
+#### ES/EN - Student and Software developer 💻
 
 ## 🔧 Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirineocalvo&layout=compact&show_icons=true&theme=radical)
 
 🗻 _General_ <br>
 [<img alt=GitHub src=https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg height=50px>][GitHub]
@@ -39,6 +37,8 @@ height=50px>][VS]
 🎨 _Art design_<br>
 [<img alt=Blender src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blender/blender-original.svg height=50px>][blender]
 [<img alt=Libresprite src="https://github.com/pirineocalvo/pirineocalvo/blob/main/img/ase48.png?raw=true" height=50px>][libre]
+[<img alt=Krita src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" height=50px>][krita]
+
 
 
 ## 📫 Social media
@@ -70,6 +70,7 @@ height=50px>][VS]
 [linkedin]: https://www.linkedin.com/in/h%C3%A9ctor-corrales-p%C3%A9rez-b31336365/
 [instagram]: https://www.instagram.com/the_pirineocalvo/
 [twitter]: https://x.com/ThePirineoCalvo
+[krita]: https://krita.org/es/
 
 
 
