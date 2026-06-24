@@ -21,8 +21,18 @@ height=60px>][Arduino]
 height=50px>][C]
 [<img alt=Python src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
 height=50px>][Python]
-[<img alt=C# src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg
-height=50px>][C#]
+[<img alt=vue-js src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png
+height=50px>][vue]
+[<img alt=sqlite src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png
+height=50px>][sqlite]
+[<img alt=express-js src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png
+height=50px>][express]
+[<img alt=springboot src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png
+height=50px>][springboot]
+[<img alt=docker src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png
+height=50px>][docker]
+
+
 
 📟 _IDEs_<br>
 [<img alt=VSCode src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg
@@ -47,7 +57,7 @@ height=50px>][VS]
 [<img alt=twitter src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/twitter/twitter-original.svg height=50px>][twitter]
 
 ## About me
-    - 📍Studying Web Apps Development (DAW) in Colegio Calasanz Salamanca.
+    -💻​🌐​Developer graduated from Web App Development.
 
 <!--References of the icons, not visible but neccesary if you want your icons to redirect somewhere-->
 [Github]: https://github.com/
@@ -71,7 +81,11 @@ height=50px>][VS]
 [instagram]: https://www.instagram.com/the_pirineocalvo/
 [twitter]: https://x.com/ThePirineoCalvo
 [krita]: https://krita.org/es/
-
+[vue]: https://vuejs.org/
+[sqlite]: https://sqlite.org/
+[express]:https://expressjs.com/es/
+[springboot]: https://spring.io/projects/spring-boot
+[docker]: https://hub.docker.com/
 
 
 
